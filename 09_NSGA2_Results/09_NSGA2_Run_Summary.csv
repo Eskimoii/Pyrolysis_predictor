@@ -1,0 +1,12 @@
+Metric,Value
+Total dataset rows,846.0
+Eligible ML and CE rows,699.0
+Usable optimisation candidates,513.0
+NSGA-II generations,200.0
+NSGA-II population size,100.0
+NSGA-II returned solutions,8.0
+Exact Pareto-optimal candidates,8.0
+Best predicted oil yield (wt.%),100.48180389404297
+Lowest SEC (MJ/kg feed),1.79236
+Compromise predicted oil yield (wt.%),97.6317138671875
+Compromise SEC (MJ/kg feed),2.15643
